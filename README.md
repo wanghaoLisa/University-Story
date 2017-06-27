@@ -1,4 +1,4 @@
-# University-Story
+# University Story
 
 One day, a well-known comedian, Silly Sally, was invited to Unimelb to complete a great challenge.  
 
